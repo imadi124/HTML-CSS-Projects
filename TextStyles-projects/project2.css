@@ -1,0 +1,72 @@
+.text{
+    font-family:tahoma;
+    font-size:20px;
+    font-weight:bold;
+  }
+
+  .Q2{
+   font-family:arial;
+   font-weight:bold;
+   margin-bottom:0px;
+   }
+
+   .Q2b{
+    font-family:arial;
+    font-style: italic;
+    color:red;
+    font-size:12px;
+    margin-top:3px;
+    margin-bottom:40px;
+   }
+
+   .Title{
+    font-family:verdana;
+    font-weight:bold;
+    margin-bottom: 0px;
+   }
+
+   .Subtitle{
+    font-family:verdana;
+    margin-top:3px;
+    color:grey;
+    font-size:15px;
+   }
+
+   .Description{
+    font-family:verdana;
+    width:300px;
+    font-size:15px;
+   }
+
+   .Get-Started{
+    color:white;
+    background-color:green;
+    border:none;
+    border-radius:2px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-size:10px;
+    margin-bottom:70px;
+   }
+
+   .Shopping-title{
+    font-family:Arial;
+    font-weight:bold;
+    margin-bottom:0px;
+    text-align:center;
+   }
+
+   .Shopping-subtitle{
+    font-family:arial;
+    font-size:10px;
+    margin-top:10px;
+    text-align:center;
+   }
+
+   .Learn-more{
+    font-family: arial;
+    text-align:center;
+    font-size:10px;
+    color:darkcyan ;
+   }
+   
