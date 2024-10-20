@@ -1,0 +1,100 @@
+ a {
+    text-decoration: none;  /* Removes the underline */
+    
+} 
+  
+  .link{
+    
+    margin-bottom:30px;
+    font-size:20px;
+    
+  }
+
+  .link:active{
+    color:red;
+  }
+  .headline{
+    color:black;
+    font-size:30px;
+    font-weight:bold;
+  }
+
+  .price{
+    font-weight:bold;
+    color:rgb(0,118,0);
+    font-size:20px;
+
+  }
+
+  .free{
+    font-size:20px;
+  }
+
+  .addtocart{
+    cursor:pointer;
+    background-color: rgb(255,216,20);
+    color:black;
+    border:none;
+    border-radius:15px;
+    height:30px;
+    width:115px;
+    transition: background-color 0.15s , opacity 0.15s;
+  }
+
+  .addtocart:hover{
+    background-color:rgb(221, 184, 0); 
+  }
+
+  .addtocart:active{
+    opacity:0.7
+  }
+
+  .buynow{
+    cursor:pointer;
+    background-color: rgb(255,164,28);
+    color:black;
+    border:none;
+    border-radius:15px;
+    height:30px;
+    width:115px;
+    transition: background-color 0.15s , opacity 0.15s;
+    text-decoration: none;
+    
+
+  }
+
+  .buynow:hover{
+    background-color:rgb(220, 142, 24) ;
+  }
+
+  .buynow:active{
+    opacity:0.7;
+  }
+
+  .buynow a {
+    color: black;  /* Ensures the text color stays black */
+    text-decoration: none;  /* Removes underline from the link */
+}
+
+  .buynow:hover a {
+    color: black;  /* Ensures the text color stays black on hover */
+}
+
+  .buynow:active a {
+    color: black;  /* Ensures the text color stays black when active */
+}
+
+
+
+.addtocart a {
+    color: black;  /* Ensures the text color stays black */
+    text-decoration: none;  /* Removes underline from the link */
+}
+
+  .addtocart:hover a {
+    color: black;  /* Ensures the text color stays black on hover */
+}
+
+  .addtocart:active a {
+    color: black;  /* Ensures the text color stays black when active */
+}
