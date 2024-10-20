@@ -1,0 +1,120 @@
+.Uber-button{
+    color:white;
+    background-color:black;
+    height:40px;
+    width:110px;
+    cursor:pointer;
+    margin-right:50px;
+    margin-bottom:100px;
+    transition: opacity 0.15s;
+   }
+
+   .Uber-button:hover{
+    opacity:0.6;
+   }
+    .Amazon-button{
+        background-color: rgb(255,216,20);
+        color:black;
+        border:none;
+        height:40px;
+        width:200px;
+        cursor:pointer;
+        border-radius: 20px;
+        font-size:15px;
+        transition: background-color 0.15s;
+    }
+
+    .Amazon-button:hover{
+        background-color:rgb(249, 210, 18);
+    }
+
+    .Github-button{
+        margin-left:50px;
+        background-color:rgb(46,164,79);
+       color:white;
+       cursor:pointer;
+       border:none;
+       border-radius:3px;
+       height:40px;
+       width:90px;
+       font-weight:bold;
+       margin-right:50px;
+       transition: box-shadow 0.15s;
+    }
+
+    .Github-button:hover{
+       box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+    }
+
+    .Bootstrap-button{
+        color:White;
+        background-color: rgb(121, 71, 197);
+        border:none;
+        height:40px;
+        width:110px;
+        cursor:pointer;
+        margin-right:10px;
+        border-radius: 3px;
+        margin-bottom:100px;
+        Transition: background-color 0.15s;
+    }
+
+    .Bootstrap-button:hover{
+        background-color:rgb(113, 52, 204);
+    }
+
+    .Download{
+        color:rgb(108,117,125);
+        background-color: white;
+        border-style:solid;
+        border-color:rgb(70, 75, 79);
+        font-weight:bold;
+        border-width:1px;
+        cursor:pointer;
+        height:40px;
+        border-radius:3px;
+        width:100px;
+        Transition: background-color 0.15s , color 0.15s;
+    }
+
+    .Download:hover{
+        background-color: rgb(108,117,125);
+        color:white;
+    }
+
+    .Linkedin-button{
+        background-color:rgb(9, 76, 144);
+        color:white;
+        border-radius:20px;
+        height:40px;
+        width:220px;
+        cursor:pointer;
+        border:none;
+        font-size:15px;
+        transition: background-color 0.20s;
+    }
+
+    .Linkedin-button:hover{
+        background-color:rgb(8, 59, 110) ;
+
+    }
+    .save-button {
+    background-color: white;
+    color: rgb(10, 102, 194);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(10, 102, 194);
+    height: 40px;
+    width: 80px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.15s,
+      border-width 0.15s;
+  }
+
+  .save-button:hover {
+    background-color: rgb(226, 240, 254);
+    border-width: 2px;
+  }
